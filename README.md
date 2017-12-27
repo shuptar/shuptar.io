@@ -1,2 +1,2 @@
-# shuptar.github.io
+# shuptar.io
 site by Olga Shuptar
